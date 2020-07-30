@@ -4,6 +4,7 @@ i-flipping patch. This is a small patch to tweak the network reception mechanism
 ## Apply the patch
 
 The patch can be applied on Linux 4-4.12 (https://cdn.kernel.org/pub/linux/kernel/v4.x/). To apply the patch, in the linux folder: 
+
   patch -s p0 < i-flipping.patch
 
 ## Get in touch 
