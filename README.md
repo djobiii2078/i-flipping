@@ -8,4 +8,4 @@ The patch can be applied on Linux 4-4.12 (https://cdn.kernel.org/pub/linux/kerne
   `patch -s p0 < i-flipping.patch`
 
 ## Get in touch 
-We would love any feedback to improve this work. Please, ping us at mvondodb@univ-grenoble-alpes.fr
+We would love any feedback to improve this work. Please, ping us at mvondodb@univ-grenoble-alpes.fr.
